@@ -23,4 +23,20 @@ fonts
 ├── archives
 ├── character-sets
 README.md
+
+.
+documentation
+⎿ assets
+⎿ reference-library
+⎿ research
+⎿ specimen
+fonts
+⎿ otf
+⎿ ttf
+⎿ variable
+⎿ webfonts
+sources
+⎿ archives
+⎿ character-sets
+README.md
 </code></pre>
