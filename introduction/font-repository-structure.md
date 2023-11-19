@@ -13,30 +13,14 @@ description: How to organize files for both the design and the engineering work.
 </strong>├── assets
 ├── reference-library
 ├── research
-├── specimen
+└── specimen
 fonts
 ├── otf
 ├── ttf
 ├── variable
-├── webfonts
+└── webfonts
 sources
 ├── archives
-├── character-sets
-README.md
-
-.
-documentation
-⎿ assets
-⎿ reference-library
-⎿ research
-⎿ specimen
-fonts
-⎿ otf
-⎿ ttf
-⎿ variable
-⎿ webfonts
-sources
-⎿ archives
-⎿ character-sets
+└── character-sets
 README.md
 </code></pre>
