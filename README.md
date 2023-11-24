@@ -1,7 +1,5 @@
 ---
-description: Welcome !
+description: Marmite Defontes documentation
 ---
 
-# Starting point 📍
-
-To do
+# This repo is the sync version of the comple documentation hosted on GitBook
