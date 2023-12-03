@@ -6,6 +6,10 @@ description: How to organise files for both the design and the engineering work.
 
 This repository structure is used for every font family in the catalog. Organising work files consistently helps with streamlining the process.
 
+{% embed url="https://github.com/MarmiteDefontes/repository-structure/tree/main" %}
+Repository template on GitHub
+{% endembed %}
+
 **The structure:**
 
 <pre><code><strong>.
