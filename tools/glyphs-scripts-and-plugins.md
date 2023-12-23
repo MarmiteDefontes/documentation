@@ -32,3 +32,4 @@
 * **KernOn 💰**: move it, kern it, pump it, speed it! Technologic.
 * **HT Letterspacer Manager**: extension of HT Letterspacer scripts to manage font rules, per-master exceptions and parameters.
 * **HT Letterspacer Areas**: visualise the areas HT Letterspacer uses to calculate white space into the glyphs in edit view.
+* **Script Deck**: Script Deck is a convenient virtual pad controller designed to simplify the process of accessing and launching your favorite scripts.
