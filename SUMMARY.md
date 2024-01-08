@@ -17,6 +17,7 @@
 
 ## Tools
 
+* [Font Production Checklist](tools/font-production-checklist.md)
 * [Softwares](tools/softwares.md)
 * [Glyphs Scripts and Plugins](tools/glyphs-scripts-and-plugins.md)
 
