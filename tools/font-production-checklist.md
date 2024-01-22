@@ -52,10 +52,16 @@ description: >-
 * [ ] Check RIBBI Style Linking
 * [ ] Setup Style Map Family Names for each style
 * [ ] Setup Style Map Style Names for each style
+* [ ] \[Figma] use ‘Localized Family Names’ info to display family name
+* [ ] \[Figma] use ‘Localized Style Names’ info to display style
 
 Optional
 
 * [ ] Setup fileName for each export (Custom Parameters)
+
+{% hint style="info" %}
+Move to **Version 1.0** for initial release and 1.1, 1.2… for following updates.
+{% endhint %}
 
 ***
 
@@ -70,4 +76,9 @@ Optional
 
 ***
 
-***
+{% hint style="info" %}
+Useful links:
+
+* [Naming in Glyphs](https://glyphsapp.com/learn/naming)
+{% endhint %}
+
