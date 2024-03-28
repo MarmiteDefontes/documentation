@@ -6,6 +6,10 @@ description: >-
 
 # Font Production Checklist
 
+**Drawing Quality**
+
+* [ ] Check extremes on all glyphs
+
 **Glyphs**
 
 * [ ] .notdef
