@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🖌️ Getting started](README.md)
+
 ## INTRODUCTION
 
-* [Starting point 📍](README.md)
+* [Starting point 📍](<README (1).md>)
 * [Content overview](introduction/content-overview.md)
 * [Font Repository Structure](introduction/font-repository-structure.md)
 
